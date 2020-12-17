@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FatemeLibrary.clsStudent">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAARQAAAYAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clsStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FatemeLibrary.clsDate">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACBAAgANAAAAQAAAAAAAAAAAAAAAAAEAAAAAgAAAAA=</HashCode>
+      <FileName>clsDate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FatemeLibrary.clsCourse">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAACAAEAEAEAAAQAAAAMAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clsCourse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

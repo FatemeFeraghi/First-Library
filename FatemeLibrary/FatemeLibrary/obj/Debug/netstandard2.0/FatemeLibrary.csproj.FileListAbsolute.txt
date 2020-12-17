@@ -1,0 +1,9 @@
+D:\Second Semester\Object Oriented\FatemeLibrary\FatemeLibrary\bin\Debug\netstandard2.0\FatemeLibrary.deps.json
+D:\Second Semester\Object Oriented\FatemeLibrary\FatemeLibrary\bin\Debug\netstandard2.0\FatemeLibrary.dll
+D:\Second Semester\Object Oriented\FatemeLibrary\FatemeLibrary\bin\Debug\netstandard2.0\FatemeLibrary.pdb
+D:\Second Semester\Object Oriented\FatemeLibrary\FatemeLibrary\obj\Debug\netstandard2.0\FatemeLibrary.csprojAssemblyReference.cache
+D:\Second Semester\Object Oriented\FatemeLibrary\FatemeLibrary\obj\Debug\netstandard2.0\FatemeLibrary.csproj.CoreCompileInputs.cache
+D:\Second Semester\Object Oriented\FatemeLibrary\FatemeLibrary\obj\Debug\netstandard2.0\FatemeLibrary.AssemblyInfoInputs.cache
+D:\Second Semester\Object Oriented\FatemeLibrary\FatemeLibrary\obj\Debug\netstandard2.0\FatemeLibrary.AssemblyInfo.cs
+D:\Second Semester\Object Oriented\FatemeLibrary\FatemeLibrary\obj\Debug\netstandard2.0\FatemeLibrary.dll
+D:\Second Semester\Object Oriented\FatemeLibrary\FatemeLibrary\obj\Debug\netstandard2.0\FatemeLibrary.pdb
